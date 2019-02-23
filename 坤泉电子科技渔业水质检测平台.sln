@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "坤泉电子科技渔业水质检测平台", "坤泉电子科技渔业水质检测平台\坤泉电子科技渔业水质检测平台.vcxproj", "{0DD26197-D50C-4193-870D-E1752876903B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD26197-D50C-4193-870D-E1752876903B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0DD26197-D50C-4193-870D-E1752876903B}.Debug|Win32.Build.0 = Debug|Win32
+		{0DD26197-D50C-4193-870D-E1752876903B}.Release|Win32.ActiveCfg = Release|Win32
+		{0DD26197-D50C-4193-870D-E1752876903B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
